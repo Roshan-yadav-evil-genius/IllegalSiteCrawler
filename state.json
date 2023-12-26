@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "country",
+      "value": "IN",
+      "domain": ".skokka.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "language",
+      "value": "en-in",
+      "domain": ".skokka.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_8GSNLSQ715",
+      "value": "GS1.1.1702725589.1.0.1702725589.60.0.0",
+      "domain": ".skokka.in",
+      "path": "/",
+      "expires": 1737285589.862264,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1184188163.1702725590",
+      "domain": ".skokka.in",
+      "path": "/",
+      "expires": 1737285589.863326,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
